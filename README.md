@@ -1,3 +1,3 @@
 # Demo
 
-Some description of C programming.
+Some description of C++ programming.
